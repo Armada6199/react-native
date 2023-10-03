@@ -22,3 +22,13 @@ This is a mobile app that helps you take photos and record where you took them. 
 3. **View Photos**: 
    - After taking a photo, you'll see it along with the location coordinates.
 
+### STAGE 2 
+
+Features
+Camera Screen: This screen provides access to the device camera, allowing users to take photos.
+
+Notes Screen: The Notes screen enables users to add notes to the captured images, enhancing the functionality of the app.
+
+Light and Dark Themes: The app offers two distinct visual themes, light mode and dark mode, ensuring an optimal user experience in different lighting conditions.
+
+Toggle Theme: Users can easily switch between light and dark themes by tapping a button, providing a personalized visual experience.
